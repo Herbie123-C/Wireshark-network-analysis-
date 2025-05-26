@@ -1,3 +1,3 @@
 # Wireshark-network-analysis-
 basic network analysis using Wireshark inside a windows VM
-![Wireshark screenshot](Wiresharkscreenshot.png)
+![wireshark screenshot](wiresharkscreenshot.png)
